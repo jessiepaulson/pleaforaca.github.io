@@ -1,0 +1,205 @@
+.navbar-default.navbar-brand{
+	font-family: "Rockwell";
+	color: #b2d8b2;
+}
+
+.center{
+	
+	background-repeat: no-repeat;
+	display: block;
+    margin: auto;
+	width: 60%;
+}
+.center1{
+	
+	background-repeat: no-repeat;
+	display: block;
+    margin: auto;
+	width: 60%;
+	b
+}
+
+#custom-bootstrap-menu.navbar-custom {
+    font-size: 10px;
+    background-color: rgba(225, 225, 225, 1);
+    border-style: solid;
+    border-color: #CCCCCC;
+    border-bottom-width: 2px;
+    font-family: Rockwell;
+
+}
+.navbar-custom-navbar-fixed-top{
+    position: fixed;
+    right: 0;
+    left: 0;
+    background-color: #CCCCCC;
+    
+    }
+    
+.img-responsive, x:-moz-any-link { 
+    /* other definitions */
+    width: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+body{
+	font-family:;
+	font-size:15px;
+	line-height:1.75;
+	width: auto;
+	height: auto;
+	display: block;
+}
+
+.Count{
+    padding: 12%;
+}
+
+.top{
+	padding:3%;
+	width:auto;
+	height: auto;
+	display: block;
+	margin: auto;
+	position: relative;
+	padding-bottom: 100px
+	
+}
+
+.portfolio-thumbnail {
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+	height: 100%;
+	width: 73%;
+	margin: auto;
+	position: relative;
+}
+.jumbotron {
+	padding: 20px;
+	background-color:#483D8B;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: #f9f9f9; 
+    color: #f9f9f9; 
+}
+.img.expand { 
+	width: 20em; 
+	}
+
+.jumbotron1 {
+	padding: 20px;
+	background-color:#483D8B;
+    padding-left: 60px;
+    padding-right: 60px;
+    position:fixed;
+    color: #f9f9f9; 
+    color: #f9f9f9; 
+}
+.boxes {
+	padding-left:4%;
+	padding-right: 4%;
+	margin: auto;
+}
+.boxes1 {
+	padding-left:14%;
+	padding-right: 4%;
+	margin: auto;
+	height: 80%;
+	width: 80%;
+}
+.boxes2 {
+	padding-left:5%;
+	padding-right: 4%;
+	margin: auto;
+	height: 70%;
+	width: 70%;
+}
+.boxes3 {
+	padding-left:14%;
+	padding-right: 4%;
+	margin: auto;
+	height: 90%;
+	width: 90%;
+}
+.thumbnail {
+	background-color: #CCD9EA;
+	padding: 15px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+	height: 90%;
+	width: 73%;
+	margin: auto;
+}
+#contact-area textarea {
+	height: 90px;
+}
+
+#contact-area textarea:focus, #contact-area input:focus {
+	border: 2px solid #900;
+}
+
+#contact-area input.submit-button {
+	width: 100px;
+	float: right;
+}
+
+#page-wrap {
+	width: 660px;
+	background: white;
+	padding: 20px 50px 20px 50px;
+	margin: 20px auto;
+	min-height: 500px;
+	height: auto;
+	height: 500px;
+}
+#contact-area {
+	width: 600px;
+	margin-top: 25px;
+}
+
+#contact-area input, #contact-area textarea {
+	padding: 5px;
+	width: 471px;
+	font-family: Helvetica, sans-serif;
+	font-size: 1.4em;
+	margin: 0px 0px 10px 0px;
+	border: 2px solid #ccc;
+}
+
+label {
+	float: left;
+	text-align: right;
+	margin-right: 15px;
+	width: 100px;
+	padding-top: 3px;
+	font-size: 1.4em;
+}
+
+h2 {
+	font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+	font-size: 32px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 32Px;
+}
+h3 {
+	font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+	font-size: 28px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 28Px;
+}
+h4 {
+	font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 24Px;
+}
